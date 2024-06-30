@@ -24,3 +24,8 @@ data
         file2
         ...
 ```
+
+在数据准备完毕后，可以通过运行main.py来训练和评估模型
+```bash
+python main.py
+```
