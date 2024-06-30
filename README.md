@@ -13,6 +13,9 @@
 
 请自行下载 CIFAR-100 数据集并解压到 data 目录下。
 解压后，确保数据集文件夹结构如下：
+
+       
+```kotlin
 data
 │  cifar100.py
 │
@@ -20,4 +23,4 @@ data
         file1
         file2
         ...
-
+```
